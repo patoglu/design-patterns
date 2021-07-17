@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Satellite","l":"hasNext()"},{"p":"<Unnamed>","c":"Satellite","l":"next()"},{"p":"<Unnamed>","c":"Satellite","l":"Satellite(int[][])","u":"%3Cinit%3E(int[][])"}];updateSearchResults();
